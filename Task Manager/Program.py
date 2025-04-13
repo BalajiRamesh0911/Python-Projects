@@ -1,5 +1,4 @@
 # A simple Task Manager application in Python
-# Features: Add, view, complete, and delete tasks
 
 # We will store tasks in a list, where each task is a dictionary
 tasks = []
